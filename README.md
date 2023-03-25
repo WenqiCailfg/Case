@@ -4,7 +4,8 @@
 - General questions folder include markdown format answers, you could directly view them throgh github
 
 ## Case Project
-
+### Introduction
+The case is built with `Vite`, `React` and `Ant Design`and is fully responsive for both desktop and mobile devices. The mobile layout is optimized for screens of 576px or less, while the desktop layout offers a clean and modern design.
 ### Demo Development
 
 Clone and install.
