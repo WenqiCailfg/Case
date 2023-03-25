@@ -1,4 +1,4 @@
-# Dashmote Case (http://bit.ly/CognitiveSurge)
+# Dashmote Case (https://golden-taiyaki-9f51fe.netlify.app/)
 
 ## General Questions 
 - General questions folder include markdown format answers, you could directly view them throgh github
